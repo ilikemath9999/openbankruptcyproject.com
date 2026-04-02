@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://openbankruptcyproject.com/abi-commission-seven-years.html</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://openbankruptcyproject.com/about.html</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://openbankruptcyproject.com/contact.html</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://openbankruptcyproject.com/donate.html</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://openbankruptcyproject.com/es.html</loc>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -32,19 +38,19 @@
   </url>
   <url>
     <loc>https://openbankruptcyproject.com/</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://openbankruptcyproject.com/legal-aid.html</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://openbankruptcyproject.com/network.html</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -56,19 +62,19 @@
   </url>
   <url>
     <loc>https://openbankruptcyproject.com/privacy.html</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://openbankruptcyproject.com/research.html</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://openbankruptcyproject.com/researchers.html</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
