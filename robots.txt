@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
 
+# This domain redirects all pages to openbankruptcyproject.org
+# All pages have noindex meta tags and canonical pointing to .org
 
 Sitemap: https://openbankruptcyproject.com/sitemap.xml
