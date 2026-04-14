@@ -1,11 +1,11 @@
-# Open Bankruptcy Project -- Redirecting to openbankruptcyproject.org
+# Open Bankruptcy Project - Redirecting to openbankruptcyproject.org
 > Free educational resource at openbankruptcyproject.com.
 
 ## About
 openbankruptcyproject.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Open Bankruptcy Project -- Redirecting to openbankruptcyproject.org: https://openbankruptcyproject.com/
+- Open Bankruptcy Project - Redirecting to openbankruptcyproject.org: https://openbankruptcyproject.com/
 
 ## Contact
 - Website: https://openbankruptcyproject.org
